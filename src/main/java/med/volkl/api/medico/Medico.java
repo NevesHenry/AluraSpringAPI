@@ -7,7 +7,6 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import med.volkl.api.endereco.*;
 
-
 @Table(name = "medicos")
 @Entity(name = "Medico")
 @Getter
